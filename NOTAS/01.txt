@@ -1,0 +1,20 @@
+HISTORIAL Y VERSIÓN
+    * git log => Muestra el historial de commits(flecha, autor, mensaje, hash, etc)
+    * git diff => Muestra los cambios hechos en los archivos antes de acer commit.
+
+REMOTO
+    * git pull => Descarga y fusiona los cambios del repositorio REMOTO
+    * git clone URL => Descarga una copia completa de un repositorio remoto a tu PC
+
+RAMAS
+    * git branch => Muestra todas las ramas del repositorio
+    * git branch nueva-rama => Crea una nueva rama 
+    * git checkout rama => Cambia a otra rama
+    * git merge rama => Une a una rama con la rama actual
+
+
+
+
+
+
+
