@@ -6,11 +6,24 @@ REMOTO
     * git pull => Descarga y fusiona los cambios del repositorio REMOTO
     * git clone URL => Descarga una copia completa de un repositorio remoto a tu PC
 
-RAMAS
+RAMAS => Una rama en GIT es una linea independiente de desarrollo en el repositorio.
     * git branch => Muestra todas las ramas del repositorio
     * git branch nueva-rama => Crea una nueva rama 
     * git checkout rama => Cambia a otra rama
     * git merge rama => Une a una rama con la rama actual
+    * git checkout -b nueva-rama => Comando que permite crear una nueva rama + ENTRAR DENTRO DE ELLA.
+
+    CAMBIAR NOMBRE DE LAS RAMAS (2 Métodos)
+        01 -> git branch -m rama-nombre-nuevo (Para este método se necesita que estes en la rama que quieres modificar el nombre)
+        02 -> git branch -m nombre-actual-rama nuevo-nombre-rama
+    
+    Eliminar RAMA -> git branch -d rama-para-eliminar (No estar en la rama eliminada)
+    
+
+
+        
+        
+
 
 
 
